@@ -1,14 +1,26 @@
-# Problem Identification
+## Problem Identification
 
-Many applicants list skills such as Java or Frontend while applying
-for jobs, even when they are still beginners.
-This often results in rejections and low confidence.
+In the current job application process, many students and freshers
+apply to roles by matching keywords from job descriptions.
+If a job mentions "Java" or "Frontend", applicants often assume
+they are suitable even if they have only basic or beginner-level knowledge.
 
-Most tools help users apply for jobs,
-but very few help them decide whether they are actually ready.
+This leads to several problems:
+- Frequent rejections
+- Loss of confidence
+- Poor interview experiences
+- Lack of clarity on skill readiness
 
-# Project Idea
+Most existing tools focus on helping users apply faster,
+but they rarely help users evaluate whether they are ready to apply.
 
-This project works as a reality check for job applicants.
-It evaluates readiness based on skill confidence
-and provides guidance instead of blind encouragement.
+## Core Idea of the Project
+
+The idea of this project is to shift the focus from application generation
+to readiness evaluation.
+
+Instead of asking “Can I apply?”, the project asks:
+“Am I prepared enough to apply?”
+
+By combining skill requirements with self-assessed confidence levels,
+the assistant provides a more realistic and honest evaluation for beginners.
