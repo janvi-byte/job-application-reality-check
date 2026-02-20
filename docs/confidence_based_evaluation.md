@@ -12,10 +12,10 @@ The project presents a solution to this problem through its introduction of conf
 ## Evaluation Method
 
 Each skill is rated on a fixed scale:
-0: Just started learning
-1: Basic understanding
-2: Comfortable with concepts
-3: Strong practical knowledge
+  0: Just started learning
+  1: Basic understanding
+  2: Comfortable with concepts
+  3: Strong practical knowledge
 
 The method encourages applicants to evaluate themselves honestly 
 while it prevents them from displaying excessive self-confidence during application processes.
