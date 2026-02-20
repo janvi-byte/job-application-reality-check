@@ -1,24 +1,25 @@
 # Job Application Assistant – Reality Check Tool
 
 # Overview
-Many students and freshers apply to jobs by matching skill names
-without considering their actual confidence or knowledge level.
-This project helps users evaluate whether they are ready to apply
-for a job and guides them accordingly.
+Lots of students and fresh graduates resort to sending out job applications
+by using the skill names that they have without bother to check whether 
+they are really competent or confident on the said skill. 
+This project helps users tell whether they are 
+in a position to apply for a certain job and give them directions as per that.
 
 ## What This Project Does
--> Takes job-required skills as input
--> Asks users to rate their confidence in each skill
--> Calculates a realistic readiness percentage
--> Gives honest advice:
+-> Job-required skills are taken by it as input 
+-> it let the users rate their confidence in each skill for which they are applying.
+-> Realistic readiness percentage is calculated by it then.
+-> It also gives sincere advice:
   - Apply now
   - Apply with preparation
   - Focus on learning first
 
 # Why This Project Is Different
-Most job application tools generate resumes or cover letters.
-This project focuses on decision-making and readiness evaluation
-before applying, which is often ignored.
+Most of job application tools generate resume or cover letter. 
+This project focuses on pre-selection/preparation 
+and is mainly targeted on the area which is usually bypassed.
 
 # Key Features
 -> Confidence-based skill evaluation
