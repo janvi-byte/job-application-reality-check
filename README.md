@@ -32,5 +32,5 @@ and is mainly targeted on the area which is usually bypassed.
 
 ## Future Scope
 - Resume keyword analysis
-- Personalized skill improvement suggestions
+- Individualized skill development recommendations.
 - Simple web interface
