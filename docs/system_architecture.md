@@ -1,7 +1,7 @@
 ## System Architecture Overview
 
-The project follows a simple modular architecture designed
-for clarity, readability, and easy understanding.
+The project implements a straightforward modular system design which enables users 
+to achieve complete comprehension of the system through its clear and readable design.
 
 The system is divided into three main layers:
 
@@ -12,14 +12,14 @@ The system is divided into three main layers:
 ## Component Breakdown
 
 - `main.py`
-  Handles user interaction such as input collection and output display.
+  The main.py file allows users to operate the system by providing methods which enable them to collect input and view output results.
 
 - `evaluation.py`
-  Contains the core logic for confidence-based skill evaluation
-  and decision-making.
+   The evaluation.py file contains all essential functions which enable users to evaluate their confidence levels and make decisions about their skills.
 
 - `docs/`
-  Contains all design explanations, reasoning, and project documentation.
+ The docs/ folder stores all design documents research materials and project records.
+
 
 ## Data Flow
 
@@ -28,5 +28,5 @@ User Input
 → Readiness Percentage Calculation
 → Decision & Guidance Output
 
-This separation ensures that logic and explanation remain independent,
-making the project easy to maintain and extend.
+The system design achieves easy maintenance and extension through its design
+which divides logical elements from parts which explain system functionality.
